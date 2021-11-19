@@ -1,7 +1,7 @@
 Challenges in High-dimensional Reinforcement Learning with Evolution Strategies
 ===============================================================================
 
-In the following we will provide a quick introducion to working with the code
+In the following we will provide a quick introduction to working with the code
 featured in our paper_ on the "Challenges in High-dimensional Reinforcement Learning 
 with Evolution Strategies".
 
