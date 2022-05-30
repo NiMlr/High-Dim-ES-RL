@@ -176,7 +176,7 @@ When sampling the performance of each of the algorithms on the ellipse with mult
 you could end up with a plot like this.
 
 .. image:: https://user-images.githubusercontent.com/39880630/41513165-153ec664-7298-11e8-8272-3d293998a076.png
-   :width: 30pt
+   :width: 80%
 
 Training an Open-AI Gym controller
 ----------------------------------
@@ -280,6 +280,6 @@ Note, that threading is likely not going to work in the current implementation o
    plt.show()
    
 .. image:: https://user-images.githubusercontent.com/39880630/41566361-85e22c3a-735b-11e8-9f1f-c5265a9271a8.png
-   :width: 30pt
+   :width: 80%
     
 .. _paper: https://arxiv.org/abs/1806.01224
